@@ -58,6 +58,8 @@ https://thunderstore.io/package/ebkr/r2modman/versions/
 
 ## 模组配置选择界面
 
+这个界面是模组配置（profile）的管理界面。通过切换不同的配置，你可以在多个不同的mod组合中快速切换。
+
 ![image](https://github.com/Somaur/Documents/assets/72651856/bbccb236-ea0e-45ee-b797-3a6cc4dd038e)
 
 **Select profile**
@@ -75,3 +77,8 @@ https://thunderstore.io/package/ebkr/r2modman/versions/
 **Delete**
 
 ## 配置mod列表和启动游戏
+
+![image](https://github.com/Somaur/Documents/assets/72651856/6ee6df91-a6f2-475c-a0c2-e0340329a502)
+
+## mod推荐
+
