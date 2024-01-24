@@ -10,7 +10,7 @@ r2modman是一个优秀的mod管理工具，和游戏mod网站thunderstore.io一
 
 0. 在Steam上购买并安装《致命公司》
 
-1. [安装r2modman](./#安装r2modman)
+1. [安装r2modman](./如何使用r2modman管理游戏mod.md#安装r2modman)
    - 可以安装到任意路径，r2modman会自动寻找steam的相关路径。
 
 2. 进入r2modman，选择游戏Lethal Company
